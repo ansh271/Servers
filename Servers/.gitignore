@@ -1,3 +1,5 @@
-node_modules/
-.env
-h
+# Ignore environment files
+Servers/04_how-to-integrate-OPENAI/.env
+
+# Ignore node_modules for this project
+Servers/04_how-to-integrate-OPENAI/node_modules/
